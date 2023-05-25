@@ -4,3 +4,4 @@ Clustering Countries by Covid-19 Community Mobility Reports and Visualization on
 This study aims to cluster countries and find a possible relationship by examining the countries' mobility data during the covid period. This relationship may be geographical, cultural, religious, etc.
 Afterwards, showing these clusters on the world map will help us find out if there is a relationship between the countries that share the same cluster, and if so, what kind of relationship there is.
 
+You can find Global_Mobility_Report.csv file at https://www.google.com/covid19/mobility/.
